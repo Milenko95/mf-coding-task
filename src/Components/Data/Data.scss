@@ -1,0 +1,19 @@
+.data-container {
+    .charts {
+        display: flex;
+    }
+    button {
+        display: block;
+        margin: 0 auto;
+    }
+    .asset-info {
+        text-align: left;
+        margin: 0px;
+    
+    }
+    .asset-info span {
+        /* color: red; */
+        font-weight: 600;
+        color: darkblue;
+    }
+}
